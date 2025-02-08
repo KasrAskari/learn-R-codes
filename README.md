@@ -1,37 +1,49 @@
-# Learn R  
+# Learn R
 
-## 📌 Overview  
-This repository serves as a learning resource for **R programming**, covering essential concepts, data manipulation, visualization, and statistical analysis. It is designed for beginners and those looking to strengthen their R skills.  
+## 📌 Overview
 
-🚧 *This repository is a work in progress and will be continuously updated with new content.* 🚧  
+This repository is a comprehensive guide to **R programming**, focusing on statistical computing and graphical presentation. It is designed to help learners analyze and visualize data effectively.
 
----
-
-## 📚 Topics Covered  
-
-- **Basics of R**: Syntax, data types, and operators  
-- **Data Manipulation**: Working with vectors, matrices, and data frames  *(Coming soon!)* 
-- **Data Visualization**: Creating plots with ggplot2  *(Coming soon!)* 
-- **Statistical Analysis**: Performing hypothesis testing and regression  *(Coming soon!)* 
-- **Machine Learning in R** *(Coming soon!)*  
+🚧 *This repository is a work in progress and will be continuously updated with new content.* 🚧
 
 ---
 
-## 📂 Repository Structure  
+## 📚 Topics Covered
+
+- **R Basics**: Syntax, data types, and basic operations 
+- **Data Structures**: Vectors, lists, matrices, and data frames (*Coming soon!*)
+- **Data Visualization**: Creating plots and charts  (*Coming soon!*)
+- **Statistics**: Descriptive statistics and probability distributions  (*Coming soon!*)
+- **Control Structures**: Conditional statements and loops  (*Coming soon!*)
+- **Functions**: Writing and utilizing functions in R  (*Coming soon!*)
+- **Data Import/Export**: Handling external data files  (*Coming soon!*)
+- **Data Manipulation**: Cleaning and transforming data  (*Coming soon!*)
+
+---
+
+## 📂 Repository Structure
 
 ```
-learn-R/  
-├── 01-Basics/             # Fundamentals of R programming  
-├── 02-Data-Manipulation/  # Working with data structures  
-├── 03-Data-Visualization/ # Creating graphs and plots  
-├── 04-Statistics/         # Statistical methods in R  
-├── README.md              # Documentation  
-└── LICENSE                # License information  
-```  
+learn-R/
+├── 01-R-Basics/             # Fundamentals of R programming
+├── 02-Data-Structures/      # Working with vectors, lists, matrices, and data frames
+├── 03-Data-Visualization/   # Creating plots and charts
+├── 04-Statistics/           # Statistical analysis in R
+├── 05-Control-Structures/   # If-else statements and loops
+├── 06-Functions/            # Writing and using functions
+├── 07-Data-Import-Export/   # Importing and exporting data
+├── 08-Data-Manipulation/    # Cleaning and transforming data
+├── README.md                # Documentation
+└── LICENSE                  # License information
+```
 
 ---
 
-## 🛠 Prerequisites  
+## 🛠 Prerequisites
 
-- Install **R**: [Download R](https://cran.r-project.org/)  
-- IDE: Recommended [RStudio](https://posit.co/download/rstudio-desktop/)  
+- **R**: [Download R](https://cran.r-project.org/)
+- **RStudio**: [Download RStudio](https://posit.co/download/rstudio-desktop/)
+
+---
+
+*Inspired by the [W3Schools R Tutorial](https://www.w3schools.com/r/)*
