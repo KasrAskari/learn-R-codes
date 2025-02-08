@@ -10,9 +10,9 @@ This repository serves as a learning resource for **R programming**, covering es
 ## 📚 Topics Covered  
 
 - **Basics of R**: Syntax, data types, and operators  
-- **Data Manipulation**: Working with vectors, matrices, and data frames  
-- **Data Visualization**: Creating plots with ggplot2  
-- **Statistical Analysis**: Performing hypothesis testing and regression  
+- **Data Manipulation**: Working with vectors, matrices, and data frames  *(Coming soon!)* 
+- **Data Visualization**: Creating plots with ggplot2  *(Coming soon!)* 
+- **Statistical Analysis**: Performing hypothesis testing and regression  *(Coming soon!)* 
 - **Machine Learning in R** *(Coming soon!)*  
 
 ---
