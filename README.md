@@ -1,5 +1,3 @@
-# Learn R
-
 ## 📌 Overview
 
 This repository is a comprehensive guide to **R programming**, focusing on statistical computing and graphical presentation. It is designed to help learners analyze and visualize data effectively.
