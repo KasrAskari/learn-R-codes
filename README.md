@@ -9,7 +9,7 @@ This repository is a comprehensive guide to **R programming**, focusing on stati
 ## 📚 Topics Covered
 
 - **R Basics**: Syntax, data types, and basic operations 
-- **Data Structures**: Vectors, lists, matrices, and data frames   (*Coming soon!*)
+- **Data Structures**: Vectors, lists, matrices, and data frames
 - **Data Visualization**: Creating plots and charts    (*Coming soon!*)
 - **Statistics**: Descriptive statistics and probability distributions    (*Coming soon!*)
 - **Control Structures**: Conditional statements and loops    (*Coming soon!*)
