@@ -12,7 +12,7 @@ This repository is a comprehensive guide to **R programming**, focusing on stati
 - **Functions**: Writing and utilizing functions in R
 - **Data Structures**: Vectors, lists, matrices, and data frames
 - **Data Visualization**: Creating plots and charts
-- **Statistics**: Descriptive statistics and probability distributions    (*Coming soon!*)
+- **Statistics**: Descriptive statistics and probability distributions    (*in progressing!*)
 - **Data Import/Export**: Handling external data files    (*Coming soon!*)
 - **Data Manipulation**: Cleaning and transforming data    (*Coming soon!*)
 
