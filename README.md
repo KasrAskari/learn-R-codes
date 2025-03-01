@@ -13,7 +13,7 @@ This repository is a comprehensive guide to **R programming**, focusing on stati
 - **Data Structures**: Vectors, lists, matrices, and data frames
 - **Data Visualization**: Creating plots and charts
 - **Statistics**: Descriptive statistics and probability distributions
-- **Data Import/Export**: Handling external data files    (*in progressing!*)
+- **Data Import/Export**: Handling external data files
 - **Data Manipulation**: Cleaning and transforming data    (*Coming soon!*)
 
 ---
@@ -28,6 +28,7 @@ learn-R/
 ├── 04-Statistics/           # Statistical analysis in R
 ├── 05-Control-Structures/   # If-else statements and loops
 ├── 06-Functions/            # Writing and using functions
+├── 07-Data Import/Export/   # Handling external data files
 ├── README.md                # Documentation
 └── LICENSE                  # License information
 ```
