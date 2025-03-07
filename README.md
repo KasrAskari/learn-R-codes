@@ -28,7 +28,6 @@ learn-R/
 ├── 04-Statistics/           # Statistical analysis in R
 ├── 05-Control-Structures/   # If-else statements and loops
 ├── 06-Functions/            # Writing and using functions
-├── 07-Import & Export/      # Handling external data files
 ├── README.md                # Documentation
 └── LICENSE                  # License information
 ```
