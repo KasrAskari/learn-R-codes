@@ -2,8 +2,6 @@
 
 This repository is a comprehensive guide to **R programming**, focusing on statistical computing and graphical presentation. It is designed to help learners analyze and visualize data effectively.
 
-🚧 *This repository is a work in progress and will be continuously updated with new content.* 🚧
-
 ---
 
 ## 📚 Topics Covered
